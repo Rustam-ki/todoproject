@@ -1,0 +1,6 @@
+a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   } 
+.navbar-brand {
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}   
